@@ -12,3 +12,6 @@ The following notebooks
 - `ResNet_AlexNet_single_label_class.ipynb`, and
 - `ResNet_AlexNet_multi_label_class.ipynb`,
 focus on investigating and experiencing open-source <ins>pretrained model</ins>, eventually leading to the world of <ins>transfer learning</ins>.
+
+### Third
+The notebook `transfer_learning_for_image_class.ipynb` examines the two main methods of transfer learning, model <ins>fine-tuning</ins> and <ins>model as fixed feature extractor</ins>, where one method significantly outperformed the other. This serves as an introduction to transfer learning and how extensively it is being used in the world of <ins>deep learning</ins>.
