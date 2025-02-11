@@ -1,1 +1,3 @@
 data/
+*.jpg
+imagenet1000Classes.txt
